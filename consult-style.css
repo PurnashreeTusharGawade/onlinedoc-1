@@ -1,0 +1,70 @@
+html{
+    font-size:20px;
+    scroll-behavior: smooth;
+}
+*{
+    margin:0;
+}
+body{
+    background-color: #FAF7F0;
+}
+#year{
+    align-items: stretch;
+}
+
+form{
+        background-color:rgba(0, 255, 251, 0.178);
+        width:40vw;
+        padding:50px 100px;
+        display:flex;
+        flex-direction:column;
+        margin:auto;
+}
+
+#doc1{
+    background-color: rgba(124, 255, 248, 0.146);
+    width:40vw;
+    padding: 35px 0px;
+    display:flex;
+    margin: auto;
+}
+
+img{
+    padding:3px 40px;
+}
+button{
+    width:10vw;
+    margin:auto;
+    border:none;
+    padding: 10px 20px;
+    background-color:#2dd4d192;
+}
+#doc2{
+    background-color: rgba(124, 255, 248, 0.146);
+    width:40vw;
+    padding: 35px 0px;
+    display:flex;
+    margin: auto;
+}
+#doc3{
+    background-color: rgba(124, 255, 248, 0.146);
+    width:40vw;
+    padding: 35px 0px;
+    display:flex;
+    margin: auto;
+}
+#doc4{
+    background-color: rgba(124, 255, 248, 0.146);
+    width:40vw;
+    padding: 35px 0px;
+    display:flex;
+    margin: auto;
+}
+h4{
+    font-weight: 300;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
